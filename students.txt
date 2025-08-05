@@ -1,0 +1,3 @@
+101,Krish Verma,20,BCA
+102,Amit Singh,21,B.Sc CS
+103,Neha Sharma,22,B.Tech
